@@ -1,14 +1,14 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Verifly",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#9563FF",
-    "light": "#AE87FF",
+    "primary": "#f43f5e",
+    "light": "#c026d3",
     "dark": "#0D001D",
     "background": {
       "dark": "#090014"
@@ -21,7 +21,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@verifly.cc"
     }
   ],
   "topbarCtaButton": {
